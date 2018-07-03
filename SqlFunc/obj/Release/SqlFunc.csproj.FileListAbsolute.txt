@@ -1,0 +1,5 @@
+D:\work\SqlFunc\SqlFunc\bin\Release\SqlFunc.dll
+D:\work\SqlFunc\SqlFunc\bin\Release\SqlFunc.pdb
+D:\work\SqlFunc\SqlFunc\obj\Release\SqlFunc.csproj.CoreCompileInputs.cache
+D:\work\SqlFunc\SqlFunc\obj\Release\SqlFunc.dll
+D:\work\SqlFunc\SqlFunc\obj\Release\SqlFunc.pdb
